@@ -1,0 +1,228 @@
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\ApplicationInsights.config
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\csc.exe
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Collections.Immutable.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Reflection.Metadata.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\vbc.exe
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe.config
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll.config
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.pdb
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.csprojResolveAssemblyReference.cache
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.pdb
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.xml
+D:\RepositoriosGit\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\ApplicationInsights.config
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\csc.exe
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Collections.Immutable.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Reflection.Metadata.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\vbc.exe
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe.config
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll.config
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.pdb
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.xml
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.csprojResolveAssemblyReference.cache
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.dll
+C:\REPOSITORIOGIT\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.pdb
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\ApplicationInsights.config
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\csc.exe
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\vbc.exe
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll.config
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.pdb
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.csprojResolveAssemblyReference.cache
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.pdb
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Swashbuckle.Core.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Helpers.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Mvc.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Razor.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Razor.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\WebActivatorEx.dll
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Helpers.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Mvc.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Razor.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Igor Baesse\Desktop\API\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Razor.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\ApplicationInsights.config
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\csc.exe
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\vbc.exe
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll.config
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\AcheiVaga.PI4.pdb
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Swashbuckle.Core.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Helpers.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Mvc.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Razor.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Razor.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\WebActivatorEx.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.Web.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Bson.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\MongoDB.Driver.Core.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\Newtonsoft.Json.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Helpers.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Mvc.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Razor.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.WebPages.Razor.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Net.Http.Formatting.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\bin\System.Web.Http.WebHost.xml
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.csprojResolveAssemblyReference.cache
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.dll
+C:\Users\baess\Desktop\APIACHEIVAGA\AcheiVaga.PI4\AcheiVaga.PI4\obj\Debug\AcheiVaga.PI4.pdb
